@@ -75,8 +75,8 @@
 ### 📫 Связь
 
 - GitHub: [Mentolka1207](https://github.com/Mentolka1207)
-- Telegram: (t.me/mentolka_m)
-- Instagram: (https://www.instagram.com/mentolka_2018?igsh=bmp3dmdoNm03MG9z)
+- Telegram: [t.me/mentolka_m](https://t.me/mentolka_m)
+- Instagram: [mentolka_2018](https://www.instagram.com/mentolka_2018)
 
 ---
 

@@ -51,17 +51,6 @@
 
 ---
 
-### 📈 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mentolka1207&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mentolka1207&layout=compact&theme=dark&hide_border=true" height="160" />
-</div>
-
----
-
----
-
 ### 🐍 Contribution Snake
 
 <picture>

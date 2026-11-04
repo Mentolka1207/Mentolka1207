@@ -33,10 +33,9 @@
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [**AI_M_OS**](https://github.com/Mentolka1207/AI_M_OS) | AI-powered OS на базе Arch Linux. Собственный планировщик в ядре, GNOME 50 + glassmorphism, D-Bus, Go-демоны, C# монитор | C, Python, Go, C#, GNOME |
-| [**AIOS.Desktop**](https://github.com/Mentolka1207/AIOS.Desktop) | Десктопный симулятор операционной системы с виртуальной файловой системой и многозадачным оконным менеджером | C#, .NET 10, Avalonia UI |
 | [**MLS**](https://github.com/Mentolka1207/MLS) | Mentolka Linux System — минималистичный дистрибутив на Artix (runit + XFCE + Flatpak + Calamares) | Shell, artools, XFCE |
 | [**my-web-rts**](https://github.com/Mentolka1207/my-web-rts) | Браузерная 3D RTS с поиском пути на базе Flow Fields и A*, формациями отрядов, FSM-ИИ и выживанием против волн | Three.js, WebGL, HTML/JS |
-| [**text-auditor**](https://github.com/Mentolka1207/text-auditor) | Инструмент для двухпроходного мультиязычного анализа и вычитки документов (`.docx`, `.md`, `.pdf`, `.txt`) через локальную LLM | Python, Ollama |
+| 
 
 ---
 

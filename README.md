@@ -35,7 +35,6 @@
 | [**AI_M_OS**](https://github.com/Mentolka1207/AI_M_OS) | AI-powered OS на базе Arch Linux. Собственный планировщик в ядре, GNOME 50 + glassmorphism, D-Bus, Go-демоны, C# монитор | C, Python, Go, C#, GNOME |
 | [**MLS**](https://github.com/Mentolka1207/MLS) | Mentolka Linux System — минималистичный дистрибутив на Artix (runit + XFCE + Flatpak + Calamares) | Shell, artools, XFCE |
 | [**my-web-rts**](https://github.com/Mentolka1207/my-web-rts) | Браузерная 3D RTS с поиском пути на базе Flow Fields и A*, формациями отрядов, FSM-ИИ и выживанием против волн | Three.js, WebGL, HTML/JS |
-| 
 
 ---
 
